@@ -1,0 +1,39 @@
+body{
+background-image:url("book.jpg");
+}
+#mymenu{
+background-color:rgba(0,0,0,0.5);
+color:white;
+text-align:left;
+}
+#mymenu ul li{
+
+    display: inline-block;
+    padding: 17px; 
+    padding-right: 46px;
+    padding-left: 17px;
+}
+#data{
+
+margin-top:150px;
+ }
+ table{
+ color:white;
+background-color:rgba(0,0,0,0.5);
+ box-shadow:20px 20px 20px 20px;
+ }
+ .t1{
+ border-radius:30px;
+ }
+ 
+ .B{
+ width:80px;
+ height:40px;
+ background:linear-gradient(to right,red,black);
+ color:white;
+ }
+.B:hover{
+ 
+ background:linear-gradient(to right,black,red);
+ 
+} 
